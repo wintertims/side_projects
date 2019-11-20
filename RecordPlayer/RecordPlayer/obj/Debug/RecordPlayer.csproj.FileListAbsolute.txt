@@ -1,0 +1,28 @@
+c:\users\tiparson\documents\visual studio 2015\Projects\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.Properties.Resources.resources
+c:\users\tiparson\documents\visual studio 2015\Projects\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.csproj.GenerateResource.Cache
+c:\users\tiparson\documents\visual studio 2015\Projects\RecordPlayer\RecordPlayer\bin\Debug\RecordPlayer.exe.config
+c:\users\tiparson\documents\visual studio 2015\Projects\RecordPlayer\RecordPlayer\bin\Debug\RecordPlayer.exe
+c:\users\tiparson\documents\visual studio 2015\Projects\RecordPlayer\RecordPlayer\bin\Debug\RecordPlayer.pdb
+c:\users\tiparson\documents\visual studio 2015\Projects\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.exe
+c:\users\tiparson\documents\visual studio 2015\Projects\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.pdb
+C:\Users\tiparson\Documents\Visual Studio 2015\Projects\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.RecordPlayer.resources
+C:\Users\tiparson\Documents\Visual Studio 2015\Projects\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.csprojResolveAssemblyReference.cache
+C:\Users\tiparson.ITRON\Dropbox\WaterVS\RecordPlayer\RecordPlayer\bin\Debug\RecordPlayer.exe.config
+C:\Users\tiparson.ITRON\Dropbox\WaterVS\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.exe
+C:\Users\tiparson.ITRON\Dropbox\WaterVS\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.pdb
+C:\Users\tiparson.ITRON\Dropbox\WaterVS\RecordPlayer\RecordPlayer\bin\Debug\RecordPlayer.exe
+C:\Users\tiparson.ITRON\Dropbox\WaterVS\RecordPlayer\RecordPlayer\bin\Debug\RecordPlayer.pdb
+C:\Users\tiparson.ITRON\Dropbox\WaterVS\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.csprojResolveAssemblyReference.cache
+C:\Users\tiparson.ITRON\Dropbox\WaterVS\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.RecordPlayer.resources
+C:\Users\tiparson.ITRON\Dropbox\WaterVS\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.Properties.Resources.resources
+C:\Users\tiparson.ITRON\Dropbox\WaterVS\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.csproj.GenerateResource.Cache
+C:\Users\timlo\Google Drive\C# stuff\WaterVS\RecordPlayer\RecordPlayer\bin\Debug\RecordPlayer.exe.config
+C:\Users\timlo\Google Drive\C# stuff\WaterVS\RecordPlayer\RecordPlayer\bin\Debug\RecordPlayer.exe
+C:\Users\timlo\Google Drive\C# stuff\WaterVS\RecordPlayer\RecordPlayer\bin\Debug\RecordPlayer.pdb
+C:\Users\timlo\Google Drive\C# stuff\WaterVS\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.csprojAssemblyReference.cache
+C:\Users\timlo\Google Drive\C# stuff\WaterVS\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.RecordPlayer.resources
+C:\Users\timlo\Google Drive\C# stuff\WaterVS\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.Properties.Resources.resources
+C:\Users\timlo\Google Drive\C# stuff\WaterVS\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.csproj.GenerateResource.cache
+C:\Users\timlo\Google Drive\C# stuff\WaterVS\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.csproj.CoreCompileInputs.cache
+C:\Users\timlo\Google Drive\C# stuff\WaterVS\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.exe
+C:\Users\timlo\Google Drive\C# stuff\WaterVS\RecordPlayer\RecordPlayer\obj\Debug\RecordPlayer.pdb

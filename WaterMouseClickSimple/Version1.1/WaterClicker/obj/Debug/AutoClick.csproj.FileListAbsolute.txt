@@ -1,0 +1,49 @@
+c:\users\tiparson\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AutoClick.csprojResolveAssemblyReference.cache
+c:\users\tiparson\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\tiparson\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\tiparson\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AutoClick.csproj.GenerateResource.Cache
+c:\users\tiparson\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\tiparson\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\tiparson\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\tiparson\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Win32Interop.User32.dll
+c:\users\tiparson\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Win32Interop.User32.pdb
+c:\users\tiparson\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\tiparson\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\tiparson\Documents\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\tiparson\Documents\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\tiparson\Documents\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WaterClicker.resources
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\obj\Debug\AutoClick.csproj.GenerateResource.Cache
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\obj\Debug\AutoClick.csprojResolveAssemblyReference.cache
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\obj\Debug\WindowsFormsApplication1.WaterClicker.resources
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\obj\Debug\AutoClick.csproj.GenerateResource.Cache
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\bin\Debug\WaterClicker.exe.config
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\bin\Debug\WaterClicker.exe
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\bin\Debug\WaterClicker.pdb
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\obj\Debug\WaterClicker.Properties.Resources.resources
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\obj\Debug\WaterClicker.exe
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\obj\Debug\WaterClicker.pdb
+C:\Users\tiparson\Documents\WaterClicker\WaterClicker\bin\Debug\WaterClicker.exe.config
+C:\Users\tiparson\Documents\WaterClicker\WaterClicker\obj\Debug\WaterClicker.exe
+C:\Users\tiparson\Documents\WaterClicker\WaterClicker\obj\Debug\WaterClicker.pdb
+C:\Users\tiparson\Documents\WaterClicker\Version1.1\WaterClicker\bin\Debug\WaterClicker.exe.config
+C:\Users\tiparson\Documents\WaterClicker\Version1.1\WaterClicker\obj\Debug\WaterClicker.exe
+C:\Users\tiparson\Documents\WaterClicker\Version1.1\WaterClicker\obj\Debug\WaterClicker.pdb
+C:\Users\tiparson\Documents\WaterClicker\Version1.1\WaterClicker\obj\Debug\AutoClick.csprojResolveAssemblyReference.cache
+C:\Users\tiparson\Documents\WaterClicker\Version1.1\WaterClicker\obj\Debug\WindowsFormsApplication1.WaterClicker.resources
+C:\Users\tiparson\Documents\WaterClicker\Version1.1\WaterClicker\obj\Debug\WaterClicker.Properties.Resources.resources
+C:\Users\tiparson\Documents\WaterClicker\Version1.1\WaterClicker\obj\Debug\AutoClick.csproj.GenerateResource.Cache
+C:\Users\tiparson\Documents\WaterClicker\Version1.1\WaterClicker\bin\Debug\WaterClicker.exe
+C:\Users\tiparson\Documents\WaterClicker\Version1.1\WaterClicker\bin\Debug\WaterClicker.pdb
+C:\Users\tiparson\Documents\Water\WaterClicker\Version1.1\WaterClicker\bin\Debug\WaterClicker.exe.config
+C:\Users\tiparson\Documents\Water\WaterClicker\Version1.1\WaterClicker\obj\Debug\WaterClicker.exe
+C:\Users\tiparson\Documents\Water\WaterClicker\Version1.1\WaterClicker\obj\Debug\WaterClicker.pdb
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\bin\Debug\WaterClicker.exe.config
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Debug\WaterClicker.exe
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Debug\WaterClicker.pdb

@@ -1,0 +1,8 @@
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\bin\Release\WaterMouseClickSimple.exe.config
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\bin\Release\WaterMouseClickSimple.exe
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\bin\Release\WaterMouseClickSimple.pdb
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Release\WindowsFormsApplication1.WaterMouseClickSimple.resources
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Release\WaterMouseClickSimple.Properties.Resources.resources
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Release\WaterMouseClickSimple.csproj.GenerateResource.Cache
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Release\WaterMouseClickSimple.exe
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Release\WaterMouseClickSimple.pdb

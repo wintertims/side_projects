@@ -1,0 +1,12 @@
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\bin\Debug\WaterMouseClickSimple.exe.config
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Debug\WaterMouseClickSimple.csprojResolveAssemblyReference.cache
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Debug\WaterMouseClickSimple.Properties.Resources.resources
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Debug\WaterMouseClickSimple.csproj.GenerateResource.Cache
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\bin\Debug\WaterMouseClickSimple.exe
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\bin\Debug\WaterMouseClickSimple.pdb
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Debug\WindowsFormsApplication1.WaterMouseClickSimple.resources
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Debug\WaterMouseClickSimple.exe
+C:\Users\tiparson\Documents\Visual Studio 2013\Projects\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Debug\WaterMouseClickSimple.pdb
+C:\Users\tiparson\Dropbox\WaterVS\WaterMouseClickSimple\Version1.1\WaterClicker\bin\Debug\WaterMouseClickSimple.exe.config
+C:\Users\tiparson\Dropbox\WaterVS\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Debug\WaterMouseClickSimple.exe
+C:\Users\tiparson\Dropbox\WaterVS\WaterMouseClickSimple\Version1.1\WaterClicker\obj\Debug\WaterMouseClickSimple.pdb

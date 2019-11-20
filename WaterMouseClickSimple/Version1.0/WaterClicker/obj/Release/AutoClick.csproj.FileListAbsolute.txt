@@ -1,0 +1,17 @@
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.WaterClicker.resources
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\obj\Release\AutoClick.csproj.GenerateResource.Cache
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\tiparson\Documents\AutoClick\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\obj\Release\AutoClick.csprojResolveAssemblyReference.cache
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\obj\Release\WindowsFormsApplication1.WaterClicker.resources
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\obj\Release\AutoClick.csproj.GenerateResource.Cache
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\bin\Release\WaterClicker.exe.config
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\bin\Release\WaterClicker.exe
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\bin\Release\WaterClicker.pdb
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\obj\Release\WaterClicker.Properties.Resources.resources
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\obj\Release\WaterClicker.exe
+C:\Users\tiparson\Documents\AutoClick\WaterClicker\obj\Release\WaterClicker.pdb
